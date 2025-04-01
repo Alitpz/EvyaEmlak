@@ -49,7 +49,7 @@
 ---
 
 ### İletişim Sayfası
-![İletişim](./Iletisim.png)
+![İletişim](./İletisim.png)
 
 ---
 
