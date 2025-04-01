@@ -49,12 +49,12 @@
 ---
 
 ### İletişim Sayfası
-![İletişim](./İletisim.png)
+![İletişim](./iletisim.png)
 
 ---
 
 ### Alt Bilgi (Footer) Alanı
-![Alt Bilgi](./Altbilgi.png)
+![Alt Bilgi](./altbilgi.png)
 
 ---
 
